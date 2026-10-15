@@ -85,3 +85,7 @@ Bioengineering | Single-cell transcriptomics and bioinformatics
 ## Citation and reuse
 
 Please cite the original GEO dataset and relevant analysis software if you build upon this workflow. Original dataset licensing, participant metadata, and use restrictions should be reviewed at the GEO record before redistributing source data. No license for this repository has been specified.
+
+## Turkish analysis notes
+
+The full Turkish-language methodology and explanations are available as [GitHub-readable Markdown](docs/ANALIZ_NOTLARI_TR.md). The [original Word document](docs/Atopic_Dermatitis_Analysis_Notes_TR.docx) contains the embedded figures.
