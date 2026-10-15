@@ -8,4 +8,3 @@ Orijinal Word dosyası (görseller ve özgün biçimlendirmeyle): **[Atopic_Derm
 
 Analiz kodu: **[atopic_dermatitis_analysis.R](../scripts/atopic_dermatitis_analysis.R)**
 
-_Not: Markdown sürümü metinleri okumayı kolaylaştırır; Word içindeki görseller bu sürüme aktarılmamıştır._
