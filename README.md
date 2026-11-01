@@ -2,7 +2,7 @@
 
 **An R-based scRNA-seq analysis workflow comparing lesional and non-lesional skin in atopic dermatitis (GSE147424).**
 
-This project presents a bioinformatics workflow developed during an internship, along with Turkish-language analysis notes. It explores cellular heterogeneity, differential gene expression, pathway enrichment, and inferred cell–cell communication in atopic dermatitis.
+This project presents a bioinformatics workflow developed during an internship, along with Turkish-language analysis notes. It explores cellular heterogeneity, differential gene expression, pathway enrichment, and inferred cell-cell communication in atopic dermatitis.
 
 > **Project status:** Research / internship portfolio project. The original analysis script is provided as written; the repository has not been independently rerun or validated in a clean environment. Interpretation and methods should be reviewed before reuse in a publication.
 
